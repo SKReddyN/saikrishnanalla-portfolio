@@ -1,10 +1,10 @@
 # Data Analyst
 
-###Education
+### Education
 -George Mason University-Masters in Data Analytics Engineering
 -Institute of Aeronautical Engineering - Bachelors in Computer Science
 
-###Professional Experience
+### Professional Experience
 -GMU|Center for Air Transportation Systems Research – Apprenticeship Aug. 2024 – Dec. 2024
 Data Analyst Fairfax, VA
 • Developed a scalable ETL pipeline using Python, Pandas, and NumPy to clean and transform 500,000+ rows of airline

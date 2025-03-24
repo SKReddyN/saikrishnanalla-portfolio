@@ -7,14 +7,14 @@
 ### Professional Experience
 -GMU|Center for Air Transportation Systems Research – Apprenticeship Aug. 2024 – Dec. 2024
 Data Analyst Fairfax, VA
-• Developed a scalable ETL pipeline using Python, Pandas, and NumPy to clean and transform 500,000+ rows of airline
-operational and financial data from 5+ sources, including U.S. DOT and Yahoo Finance.
-• Built an LSTM-based predictive model in TensorFlow, achieving 95% accuracy in forecasting stock prices for 10 U.S.
-airlines, supporting data-driven investment strategies.
-• Designed 15+ interactive dashboards to track load factors, CASM vs. RASM trends, and other key airline performance
-metrics, enhancing stakeholder decision-making.
-• Optimized MongoDB storage for large datasets, reducing query latency by 20%, while collaborating with cross-functional
-teams using Agile methodologies and JIRA for seamless project execution.
+  • Developed a scalable ETL pipeline using Python, Pandas, and NumPy to clean and transform 500,000+ rows of airline
+    operational and financial data from 5+ sources, including U.S. DOT and Yahoo Finance.
+  • Built an LSTM-based predictive model in TensorFlow, achieving 95% accuracy in forecasting stock prices for 10 U.S.
+    airlines, supporting data-driven investment strategies.
+  • Designed 15+ interactive dashboards to track load factors, CASM vs. RASM trends, and other key airline performance
+    metrics, enhancing stakeholder decision-making.
+  • Optimized MongoDB storage for large datasets, reducing query latency by 20%, while collaborating with cross-functional
+    teams using Agile methodologies and JIRA for seamless project execution.
 
 -Cognizant technology solutions Feb. 2021 – Oct. 2022
 Data Analyst Chennai, India
